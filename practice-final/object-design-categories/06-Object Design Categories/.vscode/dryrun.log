@@ -1,0 +1,6 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/darryl/Dropbox/classes21/comp2404/lectures/code/08-Object Design Categories'
+make: Leaving directory '/home/darryl/Dropbox/classes21/comp2404/lectures/code/08-Object Design Categories'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
